@@ -1,0 +1,26 @@
+[
+    {
+        "id": 3,
+        "name": "Sandwich",
+        "price": "Rs.179.88",
+        "image": "image/sandwich.png"
+    },
+    {
+        "id": 4,
+        "name": "Spring Roll",
+        "price": "Rs.189.33",
+        "image": "image/spring-roll.png"
+    },
+    {
+        "id": 5,
+        "name": "Spaghetti",
+        "price": "Rs.199.99",
+        "image": "image/spaghetti.png"
+    },
+    {
+        "id": 6,
+        "name": "Lasagna",
+        "price": "Rs.349.78",
+        "image": "image/lasagna.png"
+    }
+]
